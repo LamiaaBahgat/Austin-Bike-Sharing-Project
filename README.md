@@ -9,8 +9,26 @@
 
 The Austin Bike-Sharing Project is designed to evaluate the role and effectiveness of bike stations in Austin in promoting cleaner and sustainable transportation methods. Our analysis extends beyond general usage of bike stations and delves into temporal patterns, including peak usage times and variations among different stations. We will explore various factors such as popular commuter routes, bookings per station, trip durations, station activity, peak and off-peak usage, among others. Through this, we aim to provide comprehensive insights into the efficiency of Austin's bike-sharing infrastructure. Moreover, we hope to identify potential areas that could benefit from the implementation or enhancement of bike stations.
 
-Throughout the project, we will perform rigorous data cleaning, exploratory data analysis, in-depth analysis, and data transformation. These steps will enable us to conduct detailed feature engineering for a deeper analysis of the collected data.
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
+## Key Analysis
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization of usage patterns
+- Analysis of weather and seasonal impact
+
+## Key Insights
+- Bike usage varies with weather conditions
+- Peak usage occurs during specific hours
+- Seasonal trends strongly influence demand
+
+## Note
+This project represents an early stage of my learning journey in data analysis. I have since continued to develop my skills through more advanced projects involving real-world datasets and interactive dashboards.
 
 ## Data Sources
 
